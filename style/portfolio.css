@@ -1,7 +1,17 @@
 body {
-  background-color: rgb(227, 188, 137);
+  background-color: rgb(238, 203, 158);
 }
+/*font-family: 'Poppins', sans-serif;
+'Rubik', sans-serif;*/
+
 h1 {
+  font: "Rubik", sans-serif;
   font-size: 100px;
-  color: blueviolet;
+  color: rgb(125, 121, 121);
+}
+
+p {
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+  color: brown;
 }
