@@ -1,17 +1,29 @@
-body {
+.hero {
   background-color: rgb(238, 203, 158);
 }
 /*font-family: 'Poppins', sans-serif;
 'Rubik', sans-serif;*/
 
-h1 {
-  font: "Poppins", sans-serif;
+h1,
+h2 {
+  font: "Rubik", sans-serif;
   font-weight: normal;
   color: rgb(125, 121, 121);
 }
+h1 {
+  font-size: 40px;
+}
+h2 {
+  font-size: 20px;
+}
 
 p {
-  font-family: "Rubik", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: normal;
+  font-size: smaller;
   color: brown;
+}
+.container {
+  padding: 20px;
+  margin: 20px auto;
 }
