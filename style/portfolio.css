@@ -23,10 +23,18 @@ p {
   font-weight: normal;
   font-size: smaller;
   text-align: justify;
+  padding: 10px;
   color: rgb(143, 97, 18);
 }
 .container {
   padding: 20px;
   margin-top: 100px;
 }
-
+.logo {
+  max-width: 35px;
+  margin: none;
+  padding: none;
+}
+.navbar-grey {
+  background-color: rgba(143, 97, 18, 0.46);
+}
