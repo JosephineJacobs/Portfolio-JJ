@@ -45,3 +45,15 @@ footer {
   margin-top: 50px;
   padding: 40px;
 }
+
+.btn {
+  text-align: center;
+}
+.project-desciption {
+  padding: 120px 60px;
+}
+
+.about-section {
+  text-align: center;
+  padding: 0;
+}
