@@ -46,9 +46,6 @@ footer {
   padding: 40px;
 }
 
-.btn {
-  text-align: center;
-}
 .project-desciption {
   padding: 120px 60px;
 }
@@ -56,4 +53,7 @@ footer {
 .about-section {
   text-align: center;
   padding: 0;
+}
+.buttons-gallery {
+  text-align: center;
 }
