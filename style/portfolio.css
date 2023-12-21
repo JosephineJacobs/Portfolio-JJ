@@ -47,13 +47,11 @@ footer {
 }
 
 .project-desciption {
-  padding: 120px 60px;
+  text-align: justify;
 }
 
 .about-section {
   text-align: center;
-  padding: 0;
-}
-.buttons-gallery {
-  text-align: center;
+  padding: 20px;
+  margin-top: 50px;
 }
