@@ -40,6 +40,15 @@ p {
   background-color: rgba(143, 97, 18, 0.46);
 }
 
+.btn {
+  color: wheat;
+  background-color: rgb(143, 97, 18);
+  border-color: rgb(143, 97, 18);
+  line-height: 27px;
+  border-radius: 10px;
+  font-size: 14px;
+  padding: 3px 10px;
+}
 footer {
   text-align: center;
   font-size: 10px;
